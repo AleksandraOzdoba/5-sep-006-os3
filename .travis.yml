@@ -1,7 +1,5 @@
 os: osx
-osx_image: xcode12.5
-
-language: python
-
+osx_image: xcode14.2
+dist: focal
 script:
-  - echo "test" 
+  - echo "test"
