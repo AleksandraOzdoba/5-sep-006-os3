@@ -1,5 +1,5 @@
 os: osx
 osx_image: xcode14.2
-dist: focal
+dist: bionic
 script:
   - echo "test"
